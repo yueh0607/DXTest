@@ -1,4 +1,0 @@
-X:\Project\CS\FFramework\FEngine\x64\Debug\D3D12\D3D12Core.dll
-X:\Project\CS\FFramework\FEngine\x64\Debug\D3D12\D3D12Core.pdb
-X:\Project\CS\FFramework\FEngine\x64\Debug\D3D12\D3D12SDKLayers.dll
-X:\Project\CS\FFramework\FEngine\x64\Debug\D3D12\D3D12SDKLayers.pdb
